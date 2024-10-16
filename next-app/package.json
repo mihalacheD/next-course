@@ -39,6 +39,7 @@
     "@types/bcrypt": "^5.0.2",
     "@types/lodash": "^4.17.10",
     "daisyui": "^4.12.12",
+    "encoding": "^0.1.13",
     "prisma": "^5.20.0"
   }
 }
